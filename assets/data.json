@@ -1,0 +1,104 @@
+[
+  {
+    "quote": "All our dreams can come true if we have the courage to pursue them.",
+    "author": "Walt Disney",
+    "isLiked": false
+  },
+   {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "isLiked": false
+  },
+ {
+   "quote":"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.",
+   "author": "Socrates",
+    "isLiked": false
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author" : " Eleanor Roosevelt",
+    "isLiked": false
+  },
+{
+    "quote": "The best time to plant a tree was 20 years ago.The second best time is now.",
+    "author" : "Chinese Proverb",
+    "isLiked": false
+  },
+
+ 
+  {
+    "quote": "If something is important enough, even if the odds are stacked against you, you should still do it.",
+    "author" : "Elon Musk",
+    "isLiked": false
+  },
+  {
+    "quote": "No one is to blame for your future situation but yourself. If you want to be successful, then become Successful.",
+    "author" : "Jaymin Shah",
+    "isLiked": false
+  },
+  {
+    "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life and that is why I succeed.",
+    "author" : "Michael Jordan",
+    "isLiked": false
+  },
+{
+    "quote": "Greatness only comes before hustle in the dictionary.",
+    "author" : "Ross Simmonds",
+    "isLiked": false
+  },
+  {
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author" : "Aristotle",
+    "isLiked": false
+  },
+  {
+    "quote": "If you hear a voice within you say ‘you cannot paint,’ then by all means paint and that voice will be silenced.",
+    "author" : "Vincent Van Gogh",
+    "isLiked": false
+  },
+  {
+    "quote": "Some people want it to happen, some wish it would happen, others make it happen.",
+    "author" : "Michael Jordan",
+    "isLiked": false
+  },
+{
+    "quote": "Sometimes when you’re in a dark place you think you’ve been buried but you’ve actually been planted.",
+    "author" : "Christine Caine",
+    "isLiked": false
+  },
+  {
+    "quote": "When written in Chinese the word “crisis” is composed of two characters – one represents danger and the other represents opportunity.",
+    "author" : "John F Kennedy",
+    "isLiked": false
+  },
+  {
+    "quote": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.",
+    "author" : "Pele",
+    "isLiked": false
+  },
+  {
+    "quote": "I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.",
+    "author" : " Muhammad Ali",
+    "isLiked": false
+  },
+  {
+    "quote": "A winner is a dreamer who never gives up.",
+    "author" : "Nelson Mandela",
+    "isLiked": false
+  },
+  {
+    "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
+    "author" : "Paulo Coelho, The Alchemist",
+    "isLiked": false
+  },
+  {
+    "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "author" : "Martin Luther King Jr., A Testament of Hope",
+    "isLiked": false
+  },
+  {
+    "quote": "Oh yes, the past can hurt. But the way I see it, you can either run from it or learn from it.",
+    "author" : "Lion King",
+    "isLiked": false
+  }
+]
